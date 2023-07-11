@@ -1,3 +1,12 @@
+---
+name: Insect report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ** This is an issue for cat-related insects **
 
 Do the following:
