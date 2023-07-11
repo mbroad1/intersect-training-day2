@@ -1,7 +1,7 @@
 ---
 name: Insect report
 about: Create a report to help us improve
-title: 'CATS RELATED INSECT: '
+title: 'CAT-RELATED INSECT: '
 labels: 'insect'
 assignees: 'anhtr'
 
